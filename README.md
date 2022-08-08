@@ -19,5 +19,6 @@ I'm an aspiring Software Engineer
 
 ---
 
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=dhamolahedonist&show_icons=true&include_all_commits=true&hide_border=true" alt="samuel's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhamolahedonist&langs_count=8&layout=compact&hide_border=true" alt="samuel's GitHub stats" /> |
 
 | ------------- | ------------- |
